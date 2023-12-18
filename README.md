@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bhuvnesh sahu
 - Data Science student at Chennai Mathematical Institute 
-- 👀 I’m interested in Data science and Machine Learning.
+- I’m interested in Data science and Machine Learning.
 - You can reach me on bhuvneshsahu1234@gmail.com
 
 <!---
